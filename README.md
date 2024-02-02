@@ -21,7 +21,7 @@ In the transformation phase, the following steps are executed:
 
 1. Crowdfunding Data:
 
-- The dataset is divided into three distinct data frames: category, subcategory, and - campaign.
+- The dataset is divided into three distinct data frames: category, subcategory, and campaign.
 - Each data frame undergoes data cleaning to enhance quality and uniformity.
 2. Contacts Data:
 
